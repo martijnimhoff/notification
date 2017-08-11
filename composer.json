@@ -1,8 +1,7 @@
 {
-    "name": "martijnimhoff/notification",
+    "name": "edvinaskrucas/notification",
     "keywords": ["laravel", "notifications", "messages", "flash", "instant"],
     "description": "Package for Laravel for helping to manage flash / instant notifications / messages.",
-    "version": "5.2.1",
     "authors": [
         {
             "name": "Edvinas Kručas",
